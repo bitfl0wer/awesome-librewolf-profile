@@ -6,6 +6,24 @@ A (my personal) LibreWolf template that makes the browser less fingerprinting-pr
 
 I often switch between or reinstall Linux distributions and therefore tend to set up my browser a lot. I dislike wasting time on this and therefore created this repository. There might be a better way to do what I am trying to accomplish, but storing a pre-configured LibreWolf profile in git seems good enough to me.
 
+## 🧩 Plugins included
+
+* uBlock Origin
+* Bitwarden
+* Dark Reader
+* Stylus
+* LocalCDN
+* Canvas Blocker
+* Tab Stash
+* YouTube Channel Whitelist for uBlock Origin
+* Sponsor Block
+* Return Youtube Dislike
+* Don't track me Google
+* FastForward
+* Minimal Consent
+* Facebook Container
+* Link Cleaner
+
 ## 💻 Installation
 
 * Download/clone the repository
