@@ -6,6 +6,17 @@ A (my personal) LibreWolf template that makes the browser less fingerprinting-pr
 
 I often switch between or reinstall Linux distributions and therefore tend to set up my browser a lot. I dislike wasting time on this and therefore created this repository. There might be a better way to do what I am trying to accomplish, but storing a pre-configured LibreWolf profile in git seems good enough to me.
 
+### 💭 What has been changed compared to a base LibreWolf install?
+
+Not much, actually! Here is a list of preferences that have been changed, compared to a fresh LibreWolf profile:
+* DRM content can be viewed
+* The start/new tab page has been slightly changed
+* Automatic history, cookie and download history cleaning has been disabled
+* Sent search queries and form entries will be saved instead of discarded
+* userChrome.css customization has been enabled 
+* ResistFingerprinting and "silently block canvas access requests" have been disabled
+* WebGL has been enabled
+
 ## 🧩 Plugins included
 
 * uBlock Origin
